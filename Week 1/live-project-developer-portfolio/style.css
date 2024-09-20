@@ -1,7 +1,3 @@
-h3{
-   text-align: center;
-   font-family: cursive;
-}
 
 .hero {
     background: gray;
@@ -10,4 +6,8 @@ h3{
 .vertical-text {
     writing-mode: vertical-lr;
     transform: rotate(180deg)
+}
+
+.menu-item {
+    padding: 20px;
 }
