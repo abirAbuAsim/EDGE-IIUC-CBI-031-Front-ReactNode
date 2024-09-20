@@ -1,4 +1,23 @@
 
+section {
+    height: 300px;
+}
+
+.blog1 {
+    background-color: aqua;
+}
+
+.blog2 {
+    background-color: aquamarine;
+}
+
+button {
+    color: white;
+    border-radius: 5px;
+    border: none;
+    background-color: crimson;
+}
+
 .hero {
     background: gray;
 }
